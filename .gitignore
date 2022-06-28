@@ -123,6 +123,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .venv
-feedback-prize-effectiveness/train
-feedback-prize-effectiveness/test
+feedback-prize-effectiveness/
 .idea
